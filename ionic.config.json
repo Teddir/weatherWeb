@@ -1,0 +1,7 @@
+{
+  "name": "weatherWeb",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
